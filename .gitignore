@@ -14,10 +14,6 @@ Thumbs.db
 *.log
 *.tmp
 
-# Ignore generated images
-*.png
-*.jpg
-*.jpeg
 
 # Ignore VS Code settings
 .vscode/
